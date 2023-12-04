@@ -17,6 +17,14 @@
 > ### この記事はコマンド入門用ではありません！[^1]
 > </div>
 
+また、この記事では[Mermaid](https://mermaid.js.org/)を使った可視化を行うため、Mermaidに対応した環境で閲覧することを推奨します。
+以下の円グラフが見えていれば、あなたの環境はMermaidに対応しています。
+
+```mermaid
+pie
+  "Minecraft" : 1
+```
+
 ## Brigadierとは
 
 Minecraftのコマンドは、[**Brigadier**](https://github.com/Mojang/brigadier)というライブラリを使って実装されています。
